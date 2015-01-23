@@ -1,23 +1,24 @@
 {
-	"name":"Langkawi",
-	"thumbnail":"langkawi.png",
-	"screenshot":"langkawi.png",
+	"name":"Structure",
+	"thumbnail":"structure.png",
+	"screenshot":"structure.png",
 	"templateType":"standard",
+    "pageTypes":["home"],
     "tags": {
-    "en": ["turism", "clean", "modern", "colorful", "colourful", "flexible", "open", "vertical menu", "spa", "serif", "travel", "hospitality", "holiday", "hotel"],
-    "es": ["turismo", "limpio", "moderno", "colorido", "flexible", "abierto", "menú vertical", "balneario", "serif", "viaje", "hoteleria", "vacaciones", "hotel"],
-    "br": ["turismo", "limpo", "moderno", "colorido", "flexível", "aberto", "menu vertical", "estância termal", "serif", "Viagem", "hospitalidade", "férias", "hotel"]
+    "en": ["turism", "clean", "modern", "colorful", "colourful", "flexible", "open", "vertical menu", "serif", "travel", "hospitality", "holiday", "hotel"],
+    "es": ["turismo", "limpio", "moderno", "colorido", "flexible", "abierto", "menú vertical", "serif", "viaje", "hoteleria", "vacaciones", "hotel"],
+    "br": ["turismo", "limpo", "moderno", "colorido", "flexível", "aberto", "menu vertical", "serif", "Viagem", "hospitalidade", "férias", "hotel"]
     },
 	"colorSwatches":
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#B7B8B9",
-            "color3":"#1f4653",
-            "color4":"#0a2230",
-            "color5":"#686868",
+            "color2":"#96948e",
+            "color3":"#396487",
+            "color4":"#142431",
+            "color5":"#7e7876",
             "color6":"#ffffff",
-            "color7":"#6BD5DA"
+            "color7":"#b8afa2"
         },
         "Swatch 2": {
             "color1":"#ffffff",
@@ -59,7 +60,7 @@
     "fontSwatch": {
        "title": "Merriweather",
         "font1": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oxygen\", \"Helvetica\", Arial, sans-serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
@@ -67,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oxygen\", \"Helvetica\", Arial, sans-serif",
             "font-size": "28px",
             "font-weight": "inherit",
             "line-height": "38px",
@@ -75,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oxygen\", \"Helvetica\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "34px",
@@ -83,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "20px",
             "font-weight": "inherit",
             "line-height": "30px",
@@ -91,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "24px",
@@ -99,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
@@ -110,7 +111,7 @@
             "background-color-hover": "@color-swatch7"
         },
         "font7": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
@@ -120,7 +121,7 @@
             "background-color-hover": "lighten(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "24px",
             "font-weight": "400",
             "line-height": "36px",
@@ -128,7 +129,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Ubuntu\", Candara, Futura, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -136,7 +137,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oxygen\", \"Helvetica\", Arial, sans-serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
